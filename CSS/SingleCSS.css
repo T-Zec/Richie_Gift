@@ -65,6 +65,8 @@ button:hover {
 .banner h1 {
     color: white;
     font-size: 30px;
+    float: top;
+    margin-top: 5px;
 }
 
 .slideshow-container {
