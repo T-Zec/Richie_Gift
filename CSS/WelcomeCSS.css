@@ -28,9 +28,10 @@ button {
     background-color: green;
     border-radius: 15px;
     color: white;
-    font-size: 50px;
+    font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
+    text-align: center;
 }
 
 button:hover {
