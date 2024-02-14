@@ -60,6 +60,10 @@ button:hover {
     align-items: center;   Vertically center */
 }
 
+.banner h1 {
+    color: white;
+}
+
 .slideshow-container {
     position: relative;
     margin-top: 20px;
