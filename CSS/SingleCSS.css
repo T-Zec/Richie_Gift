@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ff6b6b;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #ff6b6b;
+}
+
+p, i {
+    color: aliceblue;
+    font-size: 18px;
+    margin: 0 0 2px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 200px;
+    height: 50px;    
+    margin: 5px 5px 5px 5px;
+    border: 5px solid darkgreen;
+    background-color: green;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+button:hover {
+    background-color: darkgreen; /* darker green on hover */
+    cursor: pointer;
+}
+
+
+
+
+.banner {
+    background-color: #4CAF50;
+    padding: 20px 0;
+    text-align: center;
+    height: 100px;
+}
+
+.banner h1 {
+    color: white;
+    font-size: 24px;
+}
+
+.slideshow-container {
+    position: relative;
+    margin-top: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+.slideshow {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+.slide {
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+.slide img {
+    width: auto;
+    height: 100px;
+}
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 16px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 20px;
+    border: none;
+    z-index: 1000;
+}
+
+.prev {
+    left: 0;
+}
+
+.next {
+    right: 0;
+}

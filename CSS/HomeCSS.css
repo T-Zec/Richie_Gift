@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    width: 400px;
+    height: 100px;    
+    margin: 5px 5px 5px 5px;
+    border: 5px solid darkgreen;
+    background-color: green;
+    border-radius: 15px;
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+button:hover {
+    background-color: darkgreen; /* darker green on hover */
+    cursor: pointer;
+}
