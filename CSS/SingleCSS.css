@@ -60,7 +60,7 @@ button:hover {
     height: 100px;
     display: flex;
     /* justify-content: center;  Horizontally center */
-    align-items: center; /* Vertically center */
+    /* align-items: center;  Vertically center */
 }
 
 .banner h1 {
