@@ -55,12 +55,12 @@ button:hover {
     background-color: #4CAF50;
     padding: 20px 0;
     text-align: center;
-    height: 100px;
+    height: 120px;
 }
 
 .banner h1 {
     color: white;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 .slideshow-container {
