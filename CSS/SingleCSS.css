@@ -10,9 +10,6 @@ h1 {
     color: #ff6b6b;
     font-size: 100px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: flex;
-    justify-content: center; /* Horizontally center */
-    align-items: center; /* Vertically center */
 }
 
 h2 {
