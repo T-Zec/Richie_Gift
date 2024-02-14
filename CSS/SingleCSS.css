@@ -52,12 +52,12 @@ button:hover {
 
 .banner {
     background-color: #4CAF50;
-    padding: 20px 0;
+    padding: 10px 0;
     text-align: center;
     height: 120px;
-    display: flex;
-    justify-content: center;  /* Horizontally center */
-    align-items: center;  /* Vertically center */
+    /* display: flex;
+     justify-content: center;   Horizontally center
+    align-items: center;   Vertically center */
 }
 
 .slideshow-container {
