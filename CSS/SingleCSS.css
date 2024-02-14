@@ -55,7 +55,10 @@ button:hover {
     background-color: #4CAF50;
     padding: 20px 0;
     text-align: center;
-    height: 120px;
+    height: 130px;
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
 }
 
 .banner h1 {
