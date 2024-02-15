@@ -62,7 +62,6 @@ button:hover {
     display: flex;
     justify-content: center; /* Horizontally center */
     align-items: center; /* Vertically center */
-    position: absolute;
 }
 
 .banner h1 {
