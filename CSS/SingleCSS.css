@@ -46,8 +46,8 @@ button {
 button:hover {
     background-color: darkgreen; /* darker green on hover */
     cursor: pointer;
-    text-align: center;
-    /*position: absolute;
+    /*text-align: center;
+    position: absolute;
     left: 50%;*/
 }
 
